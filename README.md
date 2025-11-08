@@ -169,7 +169,7 @@ Before performing the analysis, data cleaning and preprocessing were done to ens
 ![](/images/1.%20Restaurants%20delivering%20Online%20or%20not.png)
 <br>
 2. Restaurants allowing table booking or not <br>
-![](/images/2%20Restaurants%20allowing%20table%20booking%20or%20not.png)
+![](https://raw.githubusercontent.com/amanvermaa02/zomato-eda-python/main/images/two_restaurants_allowing_table_booking_or_not.png)
 <br>
 3. Table booking vs Rating <br>
 ![](/images/3%20Table%20booking%20vs%20Rating.png)
