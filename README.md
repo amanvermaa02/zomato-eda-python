@@ -164,57 +164,76 @@ Before performing the analysis, data cleaning and preprocessing were done to ens
 
 ## :mag_right: Insights
 
-**Univariate Analysis**
-1. Restaurants delivering Online or not <br>
-![](/images/1.%20Restaurants%20delivering%20Online%20or%20not.png)
-<br>
-2. Restaurants allowing table booking or not <br>
-![](/images/2%20Restaurants%20allowing%20table%20booking%20or%20not.png)
-<br>
-3. Table booking vs Rating <br>
-![](/images/3%20Table%20booking%20vs%20Rating.png)
-<br>
-4. Best Location <br>
-![](/images/4%20Best%20Location.png)
-<br>
-5. Restaurant Type <br>
-![](/images/5%20Restaurant%20Type.png)
-<br>
-6. Types of Services <br>
-![](/images/6%20Types%20of%20Services.png)
-<br> 
-7. Cost of Restaurant <br>
-![](/images/7%20Cost%20of%20Restaurant.png)
-<br>
-8. No of Restaurants in a Location <br>
-![](/images/8%20No%20of%20Restaurants%20in%20a%20Location.png)
-<br>
-9. Most Famous Restaurant Chains in Bengaluru <br>
-![](/images/9%20Most%20Famous%20Restaurant%20Chains%20in%20Bengaluru.png)
-<br>
-10. Rating Distributions <br>
-![](/images/10%20Rating%20Distributions.png)
-<br>
-11. Top Cuisines <br>
-![](/images/11%20Top%20Cuisines.png)
-<br>
+#### Univariate Analysis  
+  
+**1. Restaurants delivering Online or not**  
+  
+![](/images/1.%20Restaurants%20delivering%20Online%20or%20not.png)  
+  
+**2. Restaurants allowing table booking or not**  
+  
+![](/images/2%20Restaurants%20allowing%20table%20booking%20or%20not.png)  
+  
+**3. Table booking vs Rating**  
+  
+![](/images/3%20Table%20booking%20vs%20Rating.png)  
+  
+**4. Best Location**  
+  
+![](/images/4%20Best%20Location.png)  
+  
+**5. Restaurant Type**  
+  
+![](/images/5%20Restaurant%20Type.png)  
+  
+**6. Types of Services**  
+  
+![](/images/6%20Types%20of%20Services.png)  
+  
+**7. Cost of Restaurant**  
+  
+![](/images/7%20Cost%20of%20Restaurant.png)  
+  
+**8. No of Restaurants in a Location**  
+  
+![](/images/8%20No%20of%20Restaurants%20in%20a%20Location.png)  
+  
+**9. Most Famous Restaurant Chains in Bengaluru**  
+  
+![](/images/9%20Most%20Famous%20Restaurant%20Chains%20in%20Bengaluru.png)  
+  
+**10. Rating Distributions**  
+  
+![](/images/10%20Rating%20Distributions.png)  
+  
+**11. Top Cuisines**  
+  
+![](/images/11%20Top%20Cuisines.png)  
+  
 
-**Multivariate Analysis**
-1. Relation between Location and Rating <br>
-![](/images/1%20Relation%20between%20Location%20and%20Rating%20(M).png)
-<br>
-2. Gaussian Rest type and Rating <br>
-![](/images/2%20Gaussian%20Rest%20type%20and%20Rating%20(M).png)
-<br>
-3. Relation between Type and Rating <br>
-![](/images/3%20Relation%20between%20Type%20and%20Rating%20(M).png)
-<br>
-4. Votes vs Cost <br>
-![](/images/4%20Votes%20vs%20Cost%20(M).png)
-<br>
-5. Rest Type vs Cost <br>
-![](/images/5%20Rest%20Type%20vs%20Cost%20(M).png)
-<br>
+
+#### Multivariate Analysis  
+  
+**1. Relation between Location and Rating**  
+  
+![](/images/1%20Relation%20between%20Location%20and%20Rating%20(M).png)  
+  
+**2. Gaussian Rest type and Rating**  
+  
+![](/images/2%20Gaussian%20Rest%20type%20and%20Rating%20(M).png)  
+  
+**3. Relation between Type and Rating**  
+  
+![](/images/3%20Relation%20between%20Type%20and%20Rating%20(M).png)  
+  
+**4. Votes vs Cost**  
+  
+![](/images/4%20Votes%20vs%20Cost%20(M).png)  
+  
+**5. Rest Type vs Cost**  
+  
+![](/images/5%20Rest%20Type%20vs%20Cost%20(M).png)  
+  
 
 
 ---
